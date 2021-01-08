@@ -1,8 +1,6 @@
-# LoginApp
+Login,
 
-Cascaron de un login que usaremos en la sección 10 de mi curso de Angular de cero a experto.
+para ejecutar el proyecto primero se debe de ejecutar el comando 
+npm install
 
-https://www.udemy.com/angular-2-fernando-herrera/?couponCode=ANGULAR-10
-
-
-![](https://github.com/Klerith/angular-login-demoapp/blob/master/src/assets/images/demo.png?raw=true)
+Tambien se debe de añadir el API_KEY de firebase de la cuenta dentro del servicio de auth.service.ts
